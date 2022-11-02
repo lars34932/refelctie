@@ -2,15 +2,15 @@
 
 ## Lars Swagerman
 
-## Wat heb ik geleerd
+### Wat heb ik geleerd
 
 Ik heb geleerd om git te gebruiken en dingen te gebruiken zoals git add, git commit, git push, git status, git merge, git branch ook heb ik geleerd om merge problemen op te lossen en om samen te werken met andere leerlingen en samen aan een git reposetory te werken. Ook heb ik geleerd om goed om te gaan met de command promt dus dingen zoals dir, cd, rmdir, mkdir. Ook heb ik was geleerd over bestand op een website zetten met filezilla.
 
-## Wat wist ik al?
+### Wat wist ik al?
 
 ik wist nog niks voor deze lessen nog niks van git en filezilla ik wist wel wat kleine dingen van de command promt
 
-## wat zou ik nog willen leren
+### wat zou ik nog willen leren
 
 ik zou nog willen leren om beter om te gaan met filezilla want ik snap daar nog niet alles van
 
@@ -28,14 +28,28 @@ Waarvan zou ik nog meer willlen waten?: Lerenen om meer zelfstandig te zijn.
 
 ## Davey
 
-## wat heb ik al geleerd
+### wat heb ik al geleerd
 
 ik heb geleerd om een git te clone ik heb hem geleed om een branch aan te maken en te editen plaatjes er in te zetten en hoe je het kan pushen en pullen en hoe je een collaberator toe te voegen
 
-## wat wist ik al
+### wat wist ik al
 
 ik wist hiervoor nog niks van programeren en github
 
-## wat zouw ik nog willen leren
+### wat zouw ik nog willen leren
 
 ik zouw nog meer willen leren over hoe je het later moet doen met github en meer website's maken 
+
+## Milad Sahar
+
+- Wat heb ik met deze lessen geleerd?
+
+Ik heb geleerd hoe ik om moet gaan GitHub en hoe ik een repository kan beheren.
+
+- Wat wist ik al?
+
+Hoe GitHub werkt, en hoe ik een repository kan aanmaken.
+
+- Waarvan zou ik meer willen weten?
+
+Niets eigenlijk, ik ben inmiddels wel een expert in GitHub. Denk ik...
